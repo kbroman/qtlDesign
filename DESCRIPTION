@@ -7,8 +7,3 @@ Description: Tools for the design of QTL experiments
 Maintainer: Saunak Sen <sen@biostat.ucsf.edu>
 License: GPL
 URL: http://www.biostat.ucsf.edu/sen/
-Repository: CRAN
-Repository/R-Forge/Project: qtldesign
-Repository/R-Forge/Revision: 18
-Date/Publication: 2012-10-29 08:59:32
-Packaged: 2012-10-29 08:59:32 UTC; ripley
